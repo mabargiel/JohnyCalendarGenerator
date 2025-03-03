@@ -1,3 +1,6 @@
+# Przykładowy screenshot
+
+![obraz](https://github.com/user-attachments/assets/c9d0db26-cab9-4b4a-911c-f93dad253110)
 
 # Instrukcja Użycia Aplikacji z Docker i Docker Compose
 
